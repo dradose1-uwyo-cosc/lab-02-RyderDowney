@@ -9,7 +9,7 @@
 # here
 
 your_variable_here = "when you see this, replace it with your code"
-
+#Didn't Use the above variable statment, place all variables about their output statements instead
 ## Section ONE
 
 # Complete the following print statement to print out "Hello, COSC1010"
