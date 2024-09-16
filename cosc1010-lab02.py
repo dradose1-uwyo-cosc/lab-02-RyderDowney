@@ -1,8 +1,8 @@
-# Your Name Here
+# Ryder Downey
 # UWYO COSC 1010
-# Submission Date
+# Submission Date: 09/16/2024
 # Lab 02 
-# Lab Section: 
+# Lab Section: 14
 # Sources, people worked with, help given to: 
 # your
 # comments
@@ -13,14 +13,15 @@ your_variable_here = "when you see this, replace it with your code"
 ## Section ONE
 
 # Complete the following print statement to print out "Hello, COSC1010"
-print()
+print("Hello, COSC1010")
 
 # Assign the string above to a variable named hello_message and print that variable
-hello_message = ""
-print("Your code here")
+hello_message = "Hello, COSC1010"
+print("hello_message")
 
 # Assign the string "cowboy joe" to a variable, and print that variable with title casing
-print("Your code here")
+introduction = "cowboy joe"
+print.title("introduction")
 
 # Complete the following f-string print message 
     # You will need to create your own variables and insert them  
